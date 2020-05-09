@@ -1,0 +1,48 @@
+# Git and GitHub
+----
+
+
+## Git Commands
+### Basic Commands
+
+* ACP (**A**dd, **C**ommit, **P**ush)
+* Deleting a branch
+
+##### To delete a local branch:
+
+This "-d" option will only delete if the branch has been pushed and merged with the remote branch.
+
+>
+    git branch -d <my-branch-name>
+
+
+##### To delete a remote branch:
+
+The "-D" branch will force the branch to delete, even without being pushed and merged yet.
+
+>
+    git branch -D <my-branch-name>
+
+Go to the repo.  Click on the # branches.  Find the branch you'd like to delete and click on the red trash can to the right of it.  You are able to restore if needed.
+
+
+#### Git collaboration process, order of events, & best practice
+
+
+### Beyond the Basics:  Advanced
+#### Cherry Picking
+* Explanation
+* When to use
+
+### Errors
+* Merge conflict
+* How to rename a repo
+* I pushed to the wrong branch
+* 
+* 
+
+
+### Resources
+
+[OhShitGit.com](https://OhShitGit.com)
+ 

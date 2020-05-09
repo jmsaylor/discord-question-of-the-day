@@ -1,0 +1,34 @@
+# VS Code:  Customizing the Code Editor
+----
+
+
+### VS Code Extensions
+* Prettier - Code formatter
+* Bracket Pair Colorizer
+* Sublime Text Keymap and Settings Importer
+* Console Wrapper
+* Indent-Rainbow
+* vscode-spotify
+* Live Share
+
+### Settings
+
+To see your settings
+
+`Ctrl` + `,`
+
+To modify and add your own settings directly, scroll down and click on **Edit in settings.json**
+
+You can add your code such as:
+
+
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    
+
+
+
+### Resources
+
+[Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+ 
